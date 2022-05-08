@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Student in Bachelor's Degree in Information Systems at the University of São Paulo
+- I have knowledge in programming embedded systems using C language
+- I’m currently learning java and Python
 <!--
 **guilemes1/guilemes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
